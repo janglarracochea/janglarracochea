@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm an Aspiring SOC Analyst
 
-<!--
-**janglarracochea/janglarracochea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate building practical skills in IT support, network troubleshooting, security operations, and technical documentation.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- IT support and ticket documentation
+- Windows command-line diagnostics
+- Networking and DNS fundamentals
+- Security alert triage and incident reporting
+- Building reproducible cybersecurity portfolio projects
+
+## Portfolio
+
+**IT Support & Security Ticket Casebook**  
+A simulated casebook featuring six troubleshooting and security triage scenarios, diagnostic evidence, reusable templates, and escalation procedures.
+
+[View the Casebook](https://github.com/YOUR-USERNAME/it-support-security-casebook)
+
+## Tools and Technologies
+
+Windows Command Prompt · PowerShell fundamentals · GitHub · Markdown · Networking fundamentals · Python (as developed)
+
+## Career Goal
+
+Seeking an entry-level IT support, security operations trainee, or SOC L1 opportunity where I can contribute strong documentation, analytical thinking, troubleshooting discipline, and clear communication.
+
+*This profile describes my learning and independent projects, not professional SOC experience.*
